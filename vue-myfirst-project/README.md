@@ -28,3 +28,5 @@ npm run dev
 ### 项目的主要内容
 当在input中输入相关内容后会将内容呈现成列表的形式，并且对于列表中的内容，每一个点击的时候会出现下划线的出现和消失
 并且实现了将数据存储在local storage中
+
+主要实现代码的内容在app.vue, store.js, index.html
